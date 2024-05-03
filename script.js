@@ -1,6 +1,6 @@
 let userScore = 0;
 let compScore = 0;
-// math.random() me hum jis no se multiply krte hain tho usye ik km no humko mil jata h 
+ 
 const choices = document.querySelectorAll(".choice");
 
 const msg = document.querySelector("#msg");
