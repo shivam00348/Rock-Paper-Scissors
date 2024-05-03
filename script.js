@@ -39,7 +39,7 @@ const showWinner = (userWin, userChoice, compChoice) => {
 
 const playGame = (userChoice) => {
     // console.log("user choice = ", userChoice);
-    //Generate computer choice  -> modar way programming (mtlb chote chote kam ko function se perform krvo)
+    //Generate computer choice  -> 
     const compChoice = genCompChoice();
     console.log("computer choice = ", compChoice);
 
